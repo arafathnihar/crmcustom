@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2017-08-07 11:30:43
+<?php /* Smarty version Smarty-3.1.7, created on 2017-08-07 14:10:15
          compiled from "/var/www/vtigercrm/includes/runtime/../../layouts/v7/modules/Vtiger/dashboards/DashBoardTabContents.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:46065948659821ab6ea9471-57939827%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '9df20f406ed65b816140790311634df9589509e4' => 
     array (
       0 => '/var/www/vtigercrm/includes/runtime/../../layouts/v7/modules/Vtiger/dashboards/DashBoardTabContents.tpl',
-      1 => 1502098409,
+      1 => 1502115012,
       2 => 'file',
     ),
   ),
@@ -38,7 +38,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 <?php if ($_valid && !is_callable('content_59821ab702874')) {function content_59821ab702874($_smarty_tpl) {?>
 
 <div class='dashBoardTabContainer'><?php echo $_smarty_tpl->getSubTemplate (vtemplate_path("dashboards/DashBoardHeader.tpl",$_smarty_tpl->tpl_vars['MODULE_NAME']->value), $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array('DASHBOARDHEADER_TITLE'=>vtranslate($_smarty_tpl->tpl_vars['MODULE']->value,$_smarty_tpl->tpl_vars['MODULE']->value)), 0);?>
-<br><div class="dashboardBanner"></div><div class="dashBoardTabContents clearfix"><div class="gridster_<?php echo $_smarty_tpl->tpl_vars['TABID']->value;?>
+<br><div class="dashboardBanner" style="display: none;"></div><div class="dashBoardTabContents clearfix"><div class="gridster_<?php echo $_smarty_tpl->tpl_vars['TABID']->value;?>
 "><ul><?php $_smarty_tpl->tpl_vars['COLUMNS'] = new Smarty_variable(2, null, 0);?><?php $_smarty_tpl->tpl_vars['ROW'] = new Smarty_variable(1, null, 0);?><?php  $_smarty_tpl->tpl_vars['WIDGET'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['WIDGET']->_loop = false;
  $_from = $_smarty_tpl->tpl_vars['WIDGETS']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
  $_smarty_tpl->tpl_vars['smarty']->value['foreach']['count']['index']=-1;
