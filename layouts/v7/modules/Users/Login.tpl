@@ -260,7 +260,7 @@
 			<div class="separatorDiv"></div>
 		</div>
 
-		<div class="col-lg-5">
+		<div class="col-lg-5" style="display: none;">
 			<div class="marketingDiv widgetHeight">
 				{if $JSON_DATA}
 					{assign var=COUNTER value=0}
