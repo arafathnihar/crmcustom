@@ -20,9 +20,9 @@ $languageStrings = array(
     'LBL_MILESTONES_LIST'=> 'قائمة المعالم'   ,
 	
 	//Field Labels
-	'Project Task Name' => 'المشروع اسم المهمة',
-    'Project Task No' => 'عدد المهام المشروع',
-    'Project Task Number' => 'عدد المهام المشروع',
+	'Activity Name' => 'المشروع اسم المهمة',
+    'Activity No' => 'عدد المهام المشروع',
+    'Activity Number' => 'عدد المهام المشروع',
 	'Status' => 'حالة',
 	'Priority' => 'أفضلية',
     'Progress' => 'تقدم',

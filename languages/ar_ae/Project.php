@@ -20,7 +20,7 @@ $languageStrings = array(
 	//Field Labels
 	'Project Name' => 'اسم المشروع',
 	'Start Date' => 'تاريخ البدء',
-	'Target End Date' => 'تاريخ الانتهاء المتوقع',
+	'End Date' => 'تاريخ الانتهاء المتوقع',
 	'Actual End Date' => 'تاريخ الانتهاء الفعلي',
 	'Project No' => 'رقم المشروع',
 	'Target Budget' => 'الميزانية المستهدفة',

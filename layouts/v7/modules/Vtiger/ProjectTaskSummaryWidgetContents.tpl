@@ -11,7 +11,7 @@
 -->*}
 {strip}
 	{foreach item=HEADER from=$RELATED_HEADERS}
-		{if $HEADER->get('label') eq "Project Task Name"}
+		{if $HEADER->get('label') eq "Activity Name"}
 			{assign var=TASK_NAME_HEADER value={vtranslate($HEADER->get('label'),$MODULE_NAME)}}
 		{elseif $HEADER->get('label') eq "Progress"}
 			{assign var=TASK_PROGRESS_HEADER value=vtranslate($HEADER->get('label'),$MODULE_NAME)}

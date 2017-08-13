@@ -17,9 +17,9 @@ $languageStrings = array(
     'LBL_MILESTONES_LIST'          => 'Lista de Metas'              ,
 	
 	//Field Labels
-	'Project Task Name' => 'Nombre de la Tarea de Proyecto',
-    'Project Task No' => 'No de la Tarea de Proyecto',
-    'Project Task Number' => 'Número de la Tarea de Proyecto',
+	'Activity Name' => 'Nombre de la Tarea de Proyecto',
+    'Activity No' => 'No de la Tarea de Proyecto',
+    'Activity Number' => 'Número de la Tarea de Proyecto',
 	'Status' => 'Estado',
 	'Priority' => 'Prioridad',
     'Progress' => 'Progreso',

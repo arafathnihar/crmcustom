@@ -984,7 +984,7 @@ class Vtiger_Field_Model extends Vtiger_Field {
 											} else if ($this->getModule()->get('name') == 'ServiceContracts') {
 												$params = array('due_date');
 											} else {
-												//for project task
+												//for Activity
 												$params = array('enddate');
 											}
 											$funcName = array('name' => 'lessThanDependentField', 'params' => $params);

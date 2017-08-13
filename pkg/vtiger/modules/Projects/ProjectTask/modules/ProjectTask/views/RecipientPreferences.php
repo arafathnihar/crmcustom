@@ -28,7 +28,7 @@ class ProjectTask_RecipientPreferences_View extends Project_RecipientPreferences
 			$prefs = $recipientPrefModel->getPreferences();
 		}
 
-		//for project task module
+		//for Activity module
 		$sourceModuleModel = Vtiger_Module_Model::getInstance('ProjectTask');
 		$emailFields = $sourceModuleModel->getFieldsByType('email');
 		$emailFieldsPref = $prefs[$sourceModuleModel->getId()];

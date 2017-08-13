@@ -106,7 +106,7 @@ Vtiger_Detail_Js("Project_Detail_Js",{
 }, {
 
 	detailViewRecentTicketsTabLabel : 'HelpDesk',
-	detailViewRecentTasksTabLabel : 'Project Tasks',
+	detailViewRecentTasksTabLabel : 'Activities',
 	detailViewRecentMileStonesLabel : 'Project Milestones',
 	
 	/**
@@ -259,7 +259,7 @@ Vtiger_Detail_Js("Project_Detail_Js",{
 	},
 	
 	/**
-	 * Function to register events for project tasks widget
+	 * Function to register events for Activities widget
 	 */
 	registerEventsForTasksWidget : function(summaryViewContainer) {
 		var thisInstance = this;

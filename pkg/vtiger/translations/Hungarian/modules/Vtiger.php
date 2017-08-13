@@ -607,7 +607,7 @@ $languageStrings = array(
 	'Purchase Order' => 'Vevői rendelések',
 	'Payments' => 'Payments',
 	'List and Campaigns' => 'List and Campaigns',
-	'Project Tasks' => 'Project Tasks',
+	'Activities' => 'Activities',
 	'Project Milestones' => 'Project Milestones',
 
 	'Labels Editor' => 'Labels Editor',

@@ -17,9 +17,9 @@ $languageStrings = array(
     'LBL_MILESTONES_LIST'          => 'Lista de Hitos'              ,
 	
 	//Field Labels
-	'Project Task Name' => 'Project Task Name',
-    'Project Task No' => 'Project Task No',
-    'Project Task Number' => 'Project Task Number',
+	'Activity Name' => 'Activity Name',
+    'Activity No' => 'Activity No',
+    'Activity Number' => 'Activity Number',
 	'Status' => 'Status',
 	'Priority' => 'Priority',
     'Progress' => 'Progress',

@@ -15,7 +15,7 @@ $languageStrings = array(
 	'LBL_PROJECT_INFORMATION'      => 'Projekt adatok'              , 
 	'Project Name'                 => 'Projekt megnevezése'        , 
 	'Start Date'                   => 'Kezdő dátum'               , 
-	'Target End Date'              => 'Befejezés kitűzött dátuma', 
+	'End Date'              => 'Befejezés kitűzött dátuma',
 	'Actual End Date'              => 'Befejezés aktuális dátuma', 
 	'Project No'                   => 'Projekt No.'                 , 
 	'Target Budget'                => 'Tervezett költségkeret'    , 
@@ -70,7 +70,7 @@ $languageStrings = array(
     'LBL_GANTT_INFO1' => 'Dia jobb oldalán a feladat, hogy bővítse időtartama',
     'LBL_GANTT_INFO2' => 'Húzza a bal vagy közepén a feladat változtatni kezdési és befejezési időpontját.',
     'LBL_EDIT_PROJECT_TASK_STATUS_COLOR' => 'Szerkesztés Projekt feladat állapota Color',
-    'LBL_SELECT_PROJECT_TASK_STATUS_COLOR' => 'Válassza ki Project Task Status Color',
+    'LBL_SELECT_PROJECT_TASK_STATUS_COLOR' => 'Válassza ki Activity Status Color',
     'LBL_SELECT_STATUS' => 'Válassza a Status',
     'LBL_EDIT_COLOR' => 'Szín szerkesztése',
 );

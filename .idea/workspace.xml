@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcd8b6b4-d840-4dbb-afe7-551adad34242" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ar_ae/Project.php" afterPath="$PROJECT_DIR$/languages/ar_ae/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ar_ae/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/ar_ae/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ar_ae/Vtiger.php" afterPath="$PROJECT_DIR$/languages/ar_ae/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/de_de/Project.php" afterPath="$PROJECT_DIR$/languages/de_de/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/de_de/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/de_de/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/de_de/Vtiger.php" afterPath="$PROJECT_DIR$/languages/de_de/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/en_gb/Project.php" afterPath="$PROJECT_DIR$/languages/en_gb/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/en_gb/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/en_gb/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/en_gb/Vtiger.php" afterPath="$PROJECT_DIR$/languages/en_gb/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/en_us/Project.php" afterPath="$PROJECT_DIR$/languages/en_us/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/en_us/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/en_us/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/en_us/Vtiger.php" afterPath="$PROJECT_DIR$/languages/en_us/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/es_es/Project.php" afterPath="$PROJECT_DIR$/languages/es_es/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/es_es/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/es_es/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/es_es/Vtiger.php" afterPath="$PROJECT_DIR$/languages/es_es/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/es_mx/Project.php" afterPath="$PROJECT_DIR$/languages/es_mx/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/es_mx/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/es_mx/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/es_mx/Vtiger.php" afterPath="$PROJECT_DIR$/languages/es_mx/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/fr_fr/Project.php" afterPath="$PROJECT_DIR$/languages/fr_fr/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/fr_fr/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/fr_fr/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/fr_fr/Vtiger.php" afterPath="$PROJECT_DIR$/languages/fr_fr/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/hu_hu/Project.php" afterPath="$PROJECT_DIR$/languages/hu_hu/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/hu_hu/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/hu_hu/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/hu_hu/Vtiger.php" afterPath="$PROJECT_DIR$/languages/hu_hu/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/it_it/Project.php" afterPath="$PROJECT_DIR$/languages/it_it/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/it_it/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/it_it/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/it_it/Vtiger.php" afterPath="$PROJECT_DIR$/languages/it_it/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/nl_nl/Project.php" afterPath="$PROJECT_DIR$/languages/nl_nl/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/nl_nl/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/nl_nl/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/nl_nl/Vtiger.php" afterPath="$PROJECT_DIR$/languages/nl_nl/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/pl_pl/Project.php" afterPath="$PROJECT_DIR$/languages/pl_pl/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/pl_pl/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/pl_pl/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/pl_pl/Vtiger.php" afterPath="$PROJECT_DIR$/languages/pl_pl/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/pt_br/Project.php" afterPath="$PROJECT_DIR$/languages/pt_br/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/pt_br/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/pt_br/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/pt_br/Vtiger.php" afterPath="$PROJECT_DIR$/languages/pt_br/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ro_ro/Project.php" afterPath="$PROJECT_DIR$/languages/ro_ro/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ro_ro/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/ro_ro/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ro_ro/Vtiger.php" afterPath="$PROJECT_DIR$/languages/ro_ro/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ru_ru/Project.php" afterPath="$PROJECT_DIR$/languages/ru_ru/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ru_ru/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/ru_ru/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ru_ru/Vtiger.php" afterPath="$PROJECT_DIR$/languages/ru_ru/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/sv_se/Project.php" afterPath="$PROJECT_DIR$/languages/sv_se/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/sv_se/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/sv_se/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/sv_se/Vtiger.php" afterPath="$PROJECT_DIR$/languages/sv_se/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/tr_tr/Project.php" afterPath="$PROJECT_DIR$/languages/tr_tr/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/tr_tr/ProjectTask.php" afterPath="$PROJECT_DIR$/languages/tr_tr/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/tr_tr/Vtiger.php" afterPath="$PROJECT_DIR$/languages/tr_tr/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/v7/modules/Project/resources/Detail.js" afterPath="$PROJECT_DIR$/layouts/v7/modules/Project/resources/Detail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/v7/modules/Vtiger/ProjectTaskSummaryWidgetContents.tpl" afterPath="$PROJECT_DIR$/layouts/v7/modules/Vtiger/ProjectTaskSummaryWidgetContents.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/vlayout/modules/Project/resources/Detail.js" afterPath="$PROJECT_DIR$/layouts/vlayout/modules/Project/resources/Detail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/vlayout/modules/Vtiger/ProjectTaskSummaryWidgetContents.tpl" afterPath="$PROJECT_DIR$/layouts/vlayout/modules/Vtiger/ProjectTaskSummaryWidgetContents.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/Migration/schema/540_to_600RC.php" afterPath="$PROJECT_DIR$/modules/Migration/schema/540_to_600RC.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/Migration/schema/600_to_610.php" afterPath="$PROJECT_DIR$/modules/Migration/schema/600_to_610.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/Migration/schema/660_to_700.php" afterPath="$PROJECT_DIR$/modules/Migration/schema/660_to_700.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/Mobile/api/ws/models/alerts/ProjectTasksOfMine.php" afterPath="$PROJECT_DIR$/modules/Mobile/api/ws/models/alerts/ProjectTasksOfMine.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/Project/Project.php" afterPath="$PROJECT_DIR$/modules/Project/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/Project/models/Record.php" afterPath="$PROJECT_DIR$/modules/Project/models/Record.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/ProjectTask/ProjectTask.php" afterPath="$PROJECT_DIR$/modules/ProjectTask/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/ProjectTask/views/RecipientPreferences.php" afterPath="$PROJECT_DIR$/modules/ProjectTask/views/RecipientPreferences.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/Vtiger/models/Field.php" afterPath="$PROJECT_DIR$/modules/Vtiger/models/Field.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/modules/Mobile/modules/Mobile/api/ws/models/alerts/ProjectTasksOfMine.php" afterPath="$PROJECT_DIR$/pkg/vtiger/modules/Mobile/modules/Mobile/api/ws/models/alerts/ProjectTasksOfMine.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/Project/languages/en_us/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/Project/languages/en_us/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/Project/layouts/v7/modules/Project/resources/Detail.js" afterPath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/Project/layouts/v7/modules/Project/resources/Detail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/Project/manifest.xml" afterPath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/Project/manifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/Project/modules/Project/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/Project/modules/Project/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/Project/modules/Project/models/Record.php" afterPath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/Project/modules/Project/models/Record.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/Project/templates/resources/Detail.js" afterPath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/Project/templates/resources/Detail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/ProjectTask/languages/en_us/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/ProjectTask/languages/en_us/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/ProjectTask/manifest.xml" afterPath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/ProjectTask/manifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/ProjectTask/modules/ProjectTask/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/ProjectTask/modules/ProjectTask/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/ProjectTask/modules/ProjectTask/views/RecipientPreferences.php" afterPath="$PROJECT_DIR$/pkg/vtiger/modules/Projects/ProjectTask/modules/ProjectTask/views/RecipientPreferences.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Arabic_ar_ae/modules/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Arabic_ar_ae/modules/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Arabic_ar_ae/modules/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Arabic_ar_ae/modules/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Arabic_ar_ae/modules/Vtiger.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Arabic_ar_ae/modules/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/BrazilianLanguagePack_bz_bz/modules/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/BrazilianLanguagePack_bz_bz/modules/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/BrazilianLanguagePack_bz_bz/modules/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/BrazilianLanguagePack_bz_bz/modules/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/BrazilianLanguagePack_bz_bz/modules/Vtiger.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/BrazilianLanguagePack_bz_bz/modules/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/BritishLanguagePack_br_br/modules/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/BritishLanguagePack_br_br/modules/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/BritishLanguagePack_br_br/modules/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/BritishLanguagePack_br_br/modules/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/BritishLanguagePack_br_br/modules/Vtiger.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/BritishLanguagePack_br_br/modules/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Deutsch/modules/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Deutsch/modules/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Deutsch/modules/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Deutsch/modules/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Deutsch/modules/Vtiger.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Deutsch/modules/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Dutch/modules/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Dutch/modules/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Dutch/modules/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Dutch/modules/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Dutch/modules/Vtiger.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Dutch/modules/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/French/modules/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/French/modules/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/French/modules/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/French/modules/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/French/modules/Vtiger.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/French/modules/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Hungarian/modules/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Hungarian/modules/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Hungarian/modules/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Hungarian/modules/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Hungarian/modules/Vtiger.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Hungarian/modules/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/ItalianLanguagePack_it_it/modules/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/ItalianLanguagePack_it_it/modules/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/ItalianLanguagePack_it_it/modules/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/ItalianLanguagePack_it_it/modules/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/ItalianLanguagePack_it_it/modules/Vtiger.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/ItalianLanguagePack_it_it/modules/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/MexicanSpanishLanguagePack_es_mx/modules/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/MexicanSpanishLanguagePack_es_mx/modules/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/MexicanSpanishLanguagePack_es_mx/modules/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/MexicanSpanishLanguagePack_es_mx/modules/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/MexicanSpanishLanguagePack_es_mx/modules/Vtiger.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/MexicanSpanishLanguagePack_es_mx/modules/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/PolishLanguagePack_pl_pl/modules/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/PolishLanguagePack_pl_pl/modules/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/PolishLanguagePack_pl_pl/modules/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/PolishLanguagePack_pl_pl/modules/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/PolishLanguagePack_pl_pl/modules/Vtiger.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/PolishLanguagePack_pl_pl/modules/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/RomanianLanguagePack_rm_rm/modules/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/RomanianLanguagePack_rm_rm/modules/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/RomanianLanguagePack_rm_rm/modules/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/RomanianLanguagePack_rm_rm/modules/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/RomanianLanguagePack_rm_rm/modules/Vtiger.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/RomanianLanguagePack_rm_rm/modules/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Russian/modules/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Russian/modules/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Russian/modules/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Russian/modules/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Russian/modules/Vtiger.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Russian/modules/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Spanish/modules/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Spanish/modules/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Spanish/modules/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Spanish/modules/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Spanish/modules/Vtiger.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Spanish/modules/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Sweden_sv_se/modules/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Sweden_sv_se/modules/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Sweden_sv_se/modules/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Sweden_sv_se/modules/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/Sweden_sv_se/modules/Vtiger.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/Sweden_sv_se/modules/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/TurkishLanguagePack_tr_tr/modules/Project.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/TurkishLanguagePack_tr_tr/modules/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/TurkishLanguagePack_tr_tr/modules/ProjectTask.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/TurkishLanguagePack_tr_tr/modules/ProjectTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pkg/vtiger/translations/TurkishLanguagePack_tr_tr/modules/Vtiger.php" afterPath="$PROJECT_DIR$/pkg/vtiger/translations/TurkishLanguagePack_tr_tr/modules/Vtiger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/soap/customerportal.php" afterPath="$PROJECT_DIR$/soap/customerportal.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Target end date</find>
+      <find>End date</find>
+      <find>Project Tasks</find>
+      <find>Project Task</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>End Date</replace>
+      <replace>Activities</replace>
+      <replace>Activity</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/languages/ar_ae/Project.php" />
+        <option value="$PROJECT_DIR$/languages/ar_ae/Vtiger.php" />
+        <option value="$PROJECT_DIR$/languages/ar_ae/ProjectTask.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Projects/orangehrm-dev-environment/ohrm_dev/enterprise54" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcd8b6b4-d840-4dbb-afe7-551adad34242" name="Default" comment="" />
+      <created>1502603394654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502603394654</updated>
+      <workItem from="1502603396176" duration="732000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="732000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="738" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/languages/ar_ae/Project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages/ar_ae/Vtiger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="1020" column="3" lean-forward="false" selection-start-line="1020" selection-start-column="3" selection-end-line="1020" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages/ar_ae/ProjectTask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -89,7 +89,7 @@
 					<columnname>targetenddate</columnname>
 					<tablename>vtiger_project</tablename>
 					<generatedtype>1</generatedtype>
-					<fieldlabel>Target End Date</fieldlabel>
+					<fieldlabel>End Date</fieldlabel>
 					<readonly>1</readonly>
 					<presence>2</presence>
 					<selected>0</selected>
@@ -501,7 +501,7 @@
 	<relatedlists>
 		<relatedlist>
 			<function>get_dependents_list</function>
-			<label>Project Tasks</label>
+			<label>Activities</label>
 			<sequence>1</sequence>
 			<presence>0</presence>
 			<actions>
@@ -556,7 +556,7 @@
 	<customlinks>
 		<customlink>
 			<linktype>DETAILVIEWBASIC</linktype>
-			<linklabel>Add Project Task</linklabel>
+			<linklabel>Add Activity</linklabel>
 			<linkurl><![CDATA[index.php?module=ProjectTask&action=EditView&projectid=$RECORD$&return_module=Project&return_action=DetailView&return_id=$RECORD$]]></linkurl>
 			<linkicon><![CDATA[]]></linkicon>
 			<sequence>0</sequence>

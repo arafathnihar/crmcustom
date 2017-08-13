@@ -44,7 +44,7 @@
 					<columnname>projecttaskname</columnname>
 					<tablename>vtiger_projecttask</tablename>
 					<generatedtype>1</generatedtype>
-					<fieldlabel>Project Task Name</fieldlabel>
+					<fieldlabel>Activity Name</fieldlabel>
 					<readonly>1</readonly>
 					<presence>2</presence>
 					<selected>0</selected>
@@ -163,7 +163,7 @@
 					<columnname>projecttasknumber</columnname>
 					<tablename>vtiger_projecttask</tablename>
 					<generatedtype>1</generatedtype>
-					<fieldlabel>Project Task Number</fieldlabel>
+					<fieldlabel>Activity Number</fieldlabel>
 					<readonly>1</readonly>
 					<presence>2</presence>
 					<selected>0</selected>
@@ -183,7 +183,7 @@
 					<columnname>projecttask_no</columnname>
 					<tablename>vtiger_projecttask</tablename>
 					<generatedtype>2</generatedtype>
-					<fieldlabel>Project Task No</fieldlabel>
+					<fieldlabel>Activity No</fieldlabel>
 					<readonly>1</readonly>
 					<presence>0</presence>
 					<selected>0</selected>

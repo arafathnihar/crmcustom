@@ -78,7 +78,7 @@
 	}
 
 	/** 
-	 * Function to get the project task for a project
+	 * Function to get the Activity for a project
 	 * @return <Array> - $projectTasks
 	 */
 	public function getProjectTasks() {

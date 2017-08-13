@@ -41,7 +41,7 @@ class ProjectTask extends CRMEntity {
 	var $list_fields = Array (
 		/* Format: Field Label => Array(tablename, columnname) */
 		// tablename should not have prefix 'vtiger_'
-		'Project Task Name'=> Array('projecttask', 'projecttaskname'),
+		'Activity Name'=> Array('projecttask', 'projecttaskname'),
 		'Start Date'=> Array('projecttask', 'startdate'),
 		'End Date'=> Array('projecttask', 'enddate'),
 		'Type'=>Array('projecttask','projecttasktype'),
@@ -51,7 +51,7 @@ class ProjectTask extends CRMEntity {
 	);
 	var $list_fields_name = Array(
 		/* Format: Field Label => fieldname */
-		'Project Task Name'=> 'projecttaskname',
+		'Activity Name'=> 'projecttaskname',
 		'Start Date'=>'startdate',
 		'End Date'=> 'enddate',
 		'Type'=>'projecttasktype',
@@ -66,14 +66,14 @@ class ProjectTask extends CRMEntity {
 	var $search_fields = Array(
 		/* Format: Field Label => Array(tablename, columnname) */
 		// tablename should not have prefix 'vtiger_'
-		'Project Task Name'=> Array('projecttask', 'projecttaskname'),
+		'Activity Name'=> Array('projecttask', 'projecttaskname'),
 		'Start Date'=> Array('projecttask', 'startdate'),
 		'Type'=>Array('projecttask','projecttasktype'),
 		'Assigned To' => Array('crmentity','smownerid')
 	);
 	var $search_fields_name = Array(
 		/* Format: Field Label => fieldname */
-		'Project Task Name'=> 'projecttaskname',
+		'Activity Name'=> 'projecttaskname',
 		'Start Date'=>'startdate',
 		'Type'=>'projecttasktype',
 		'Assigned To' => 'assigned_user_id'

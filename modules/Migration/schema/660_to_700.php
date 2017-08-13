@@ -277,7 +277,7 @@ if(defined('VTIGER_UPGRADE')) {
 	$updateList[] = array('module' => 'Potentials',	'fieldname' => 'Potentials',		'newfieldname' => array('closingdate'));
 	$updateList[] = array('module' => 'Invoice',	'fieldname' => 'Invoice',			'newfieldname' => array('duedate'));
 	$updateList[] = array('module' => 'Project',	'fieldname' => 'Project',			'newfieldname' => array('startdate', 'targetenddate'));
-	$updateList[] = array('module' => 'ProjectTask','fieldname' => 'Project Task',		'newfieldname' => array('startdate', 'enddate'));
+	$updateList[] = array('module' => 'ProjectTask','fieldname' => 'Activity',		'newfieldname' => array('startdate', 'enddate'));
 
 	foreach ($updateList as $list) {
 		$db->pquery('UPDATE vtiger_calendar_default_activitytypes SET fieldname=? WHERE module=? AND fieldname=? AND isdefault=?', array(Zend_Json::encode($list['newfieldname']), $list['module'], $list['fieldname'], '1'));

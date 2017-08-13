@@ -20,7 +20,7 @@ $languageStrings = array(
 	//Field Labels
 	'Project Name' => 'Project Name',
 	'Start Date' => 'Start Date',
-	'Target End Date' => 'Target End Date',
+	'End Date' => 'End Date',
 	'Actual End Date' => 'Actual End Date',
 	'Project No' => 'Project Number',
 	'Target Budget' => 'Target Budget',
@@ -80,8 +80,8 @@ $languageStrings = array(
 	'LBL_INFO' => 'Info',
 	'LBL_GANTT_INFO1' => 'Slide on right side of the task to expand duration',
 	'LBL_GANTT_INFO2' => 'Drag on the left or center of the task to change start and end date.',
-	'LBL_EDIT_PROJECT_TASK_STATUS_COLOR' => 'Edit Project Task Status Color',
-	'LBL_SELECT_PROJECT_TASK_STATUS_COLOR' => 'Select Project Task Status Color',
+	'LBL_EDIT_PROJECT_TASK_STATUS_COLOR' => 'Edit Activity Status Color',
+	'LBL_SELECT_PROJECT_TASK_STATUS_COLOR' => 'Select Activity Status Color',
 	'LBL_SELECT_STATUS' => 'Select Status',
 	'LBL_EDIT_COLOR' => 'Edit Color',
 );

@@ -1168,7 +1168,7 @@ if ($adb->num_rows($result) <= 0) {
                                                                                                 'birthday'=>'#545252'),
                                                         'Invoice' => array('Invoice'=>'#87865D'),
                                                         'Project' => array('Project'=>'#C71585'),
-                                                        'ProjectTask' => array('Project Task'=>'#006400'),
+                                                        'ProjectTask' => array('Activity'=>'#006400'),
                                                 );
 
         foreach($calendarViewTypes as $module=>$viewInfo) {

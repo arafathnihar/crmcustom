@@ -21,9 +21,9 @@ $languageStrings = array(
 	'LBL_TASKS_LIST' => 'Lista zadań',
 	
 	//Field Labels
-	'Project Task Name' => 'Nazwa projektu Zadanie',
-    'Project Task No' => 'Projekt nr Zadanie',
-    'Project Task Number' => 'Numer zadania projektu',
+	'Activity Name' => 'Nazwa projektu Zadanie',
+    'Activity No' => 'Projekt nr Zadanie',
+    'Activity Number' => 'Numer zadania projektu',
 	'Status' => 'Status',
 	'Priority' => 'Priorytet',
     'Progress' => 'Postęp',
