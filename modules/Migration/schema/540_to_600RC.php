@@ -591,7 +591,7 @@ for($i=0; $i<$noOfTabs; ++$i) {
 	$allTabIds[$tabName] = $tabId;
 }
 
-//Adding status field for project task
+//Adding status field for Activity
 
 $moduleInstance = Vtiger_Module::getInstance('ProjectTask');
 $blockInstance = Vtiger_Block::getInstance('LBL_PROJECT_TASK_INFORMATION', $moduleInstance);
@@ -1496,7 +1496,7 @@ $sql = 'UPDATE vtiger_links SET handler = ?, handler_class = ?, handler_path = ?
 Migration_Index_View::ExecuteQuery($sql, array('isLinkPermitted', 'Documents', 'modules/Documents/Documents.php', $labels));
 
 $sql = 'UPDATE vtiger_links SET handler = ?, handler_class = ?, handler_path = ? WHERE linklabel = ?';
-Migration_Index_View::ExecuteQuery($sql, array('isLinkPermitted', 'ProjectTask', 'modules/ProjectTask/ProjectTask.php', 'Add Project Task'));
+Migration_Index_View::ExecuteQuery($sql, array('isLinkPermitted', 'ProjectTask', 'modules/ProjectTask/ProjectTask.php', 'Add Activity'));
 
 Migration_Index_View::ExecuteQuery('DELETE FROM vtiger_settings_field WHERE name=?', array('EMAILTEMPLATES'));
 

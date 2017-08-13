@@ -9,17 +9,17 @@
  ************************************************************************************/
 $languageStrings = array(
 	'SINGLE_ProjectTask'           => 'Tarefa Projeto'              , 
-	'LBL_ADD_RECORD'               => 'Add Project Task'            , 
-	'LBL_RECORDS_LIST'             => 'Project Task List'           , 
+	'LBL_ADD_RECORD'               => 'Add Activity'            ,
+	'LBL_RECORDS_LIST'             => 'Activity List'           ,
 	'LBL_PROJECT_TASK_INFORMATION' => 'Informação Tarefa Projeto' , 
 	'LBL_PROJECTS_LIST'            => 'Projects List'               , // TODO: Review
 	'LBL_TASKS_LIST'               => 'Tasks List'                  , // TODO: Review
     'LBL_MILESTONES_LIST'          => 'Lista Milestones'            ,
 	
 	//Field Labels
-	'Project Task Name' => 'Project Task Name',
-    'Project Task No' => 'Project Task No',
-    'Project Task Number' => 'Project Task Number',
+	'Activity Name' => 'Activity Name',
+    'Activity No' => 'Activity No',
+    'Activity Number' => 'Activity Number',
 	'Status' => 'Status',
 	'Priority' => 'Priority',
     'Progress' => 'Progress',

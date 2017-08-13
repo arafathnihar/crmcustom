@@ -1016,7 +1016,7 @@ Pozostałe wpisy zostaną usunięte, a odpowiednia informacja zostanie złączon
   'Purchase Order' => 'Zamówienia Na Zakup',
   'Payments' => 'Płatności',
   'List and Campaigns' => 'Lista i kampanii',
-  'Project Tasks' => 'Zadania Projektu',
+  'Activities' => 'Zadania Projektu',
   'Project Milestones' => 'Kamienie Milowe Projektu',
   'Labels Editor' => 'Tagi Edytor',
   'LBL_IGNORE_EMPTY_VALUES' => 'Ignoruj puste wartości',

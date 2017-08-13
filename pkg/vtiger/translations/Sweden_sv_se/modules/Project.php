@@ -21,7 +21,7 @@ $languageStrings = array(
 	//Field Labels
 	'Project Name' => 'Projektnamn',
 	'Start Date' => 'Startdatum',
-	'Target End Date' => 'Målsättningför slutdatum',
+	'End Date' => 'Målsättningför slutdatum',
 	'Actual End Date' => 'Faktiskt slutdatum',
 	'Project No' => 'Projektnummer',
 	'Target Budget' => 'Målbudget',

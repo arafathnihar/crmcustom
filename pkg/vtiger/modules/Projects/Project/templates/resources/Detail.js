@@ -10,7 +10,7 @@
 Vtiger_Detail_Js("Project_Detail_Js",{},{
 	
 	detailViewRecentTicketsTabLabel : 'Trouble Tickets',
-	detailViewRecentTasksTabLabel : 'Project Tasks',
+	detailViewRecentTasksTabLabel : 'Activities',
 	detailViewRecentMileStonesLabel : 'Project Milestones',
 	
 	/**

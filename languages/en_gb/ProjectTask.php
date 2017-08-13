@@ -8,18 +8,18 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'SINGLE_ProjectTask'           => 'Project Task'                , 
-	'LBL_ADD_RECORD'               => 'Add Project Task'            , 
-	'LBL_RECORDS_LIST'             => 'Project Task List'           , 
-	'LBL_PROJECT_TASK_INFORMATION' => 'Project Task Information'    , 
+	'SINGLE_ProjectTask'           => 'Activity'                ,
+	'LBL_ADD_RECORD'               => 'Add Activity'            ,
+	'LBL_RECORDS_LIST'             => 'Activity List'           ,
+	'LBL_PROJECT_TASK_INFORMATION' => 'Activity Information'    ,
 	'LBL_PROJECTS_LIST'            => 'Projects List'               , // TODO: Review
 	'LBL_TASKS_LIST'               => 'Tasks List'                  , // TODO: Review
     'LBL_MILESTONES_LIST'          => 'Milestones List'             ,
 	
 	//Field Labels
-	'Project Task Name' => 'Project Task Name',
-    'Project Task No' => 'Project Task No',
-    'Project Task Number' => 'Project Task Number',
+	'Activity Name' => 'Activity Name',
+    'Activity No' => 'Activity No',
+    'Activity Number' => 'Activity Number',
 	'Status' => 'Status',
 	'Priority' => 'Priority',
     'Progress' => 'Progress',
@@ -43,5 +43,5 @@ $languageStrings = array(
 	'Completed' => 'Completed',
 	'Deferred' => 'Deferred',
 	'Canceled ' => 'Canceled',
-        'LBL_NO_DATE_VALUE_MSG' => 'or Project Tasks do not have Start and/or End Date',
+        'LBL_NO_DATE_VALUE_MSG' => 'or Activities do not have Start and/or End Date',
 );

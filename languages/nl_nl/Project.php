@@ -15,7 +15,7 @@ $languageStrings = array(
 	'LBL_PROJECT_INFORMATION'      => 'Projectinformatie'           , 
 	'Project Name'                 => 'Project naam'                , 
 	'Start Date'                   => 'Startdatum'                  , 
-	'Target End Date'              => 'Doel Einddatum'              , 
+	'End Date'              => 'Doel Einddatum'              ,
 	'Actual End Date'              => 'Actuele Einddatum'           , 
 	'Project No'                   => 'Projectnummer'               , 
 	'Target Budget'                => 'Doel Budget'                 , 
@@ -70,7 +70,7 @@ $languageStrings = array(
     'LBL_GANTT_INFO1' => 'Schuif aan de rechterkant van de taak te duur uit te breiden',
     'LBL_GANTT_INFO2' => 'Drag links of in het midden van de taak om begin-en einddatum te veranderen.',
     'LBL_EDIT_PROJECT_TASK_STATUS_COLOR' => 'Bewerk Project Taak Status Kleur',
-    'LBL_SELECT_PROJECT_TASK_STATUS_COLOR' => 'Selecteer Project Task Status Kleur',
+    'LBL_SELECT_PROJECT_TASK_STATUS_COLOR' => 'Selecteer Activity Status Kleur',
     'LBL_SELECT_STATUS' => 'Selecteer Status',
     'LBL_EDIT_COLOR' => 'Kleur bewerken',
 );

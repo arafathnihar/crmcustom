@@ -20,9 +20,9 @@ $languageStrings = array(
 	'LBL_TASKS_LIST' => 'Uppgiftslista',
 	
 	//Field Labels
-	'Project Task Name' => 'Project Task Namn',
-    'Project Task No' => 'Projekt Task Nej',
-    'Project Task Number' => 'Projekt Uppgift nummer',
+	'Activity Name' => 'Activity Namn',
+    'Activity No' => 'Projekt Task Nej',
+    'Activity Number' => 'Projekt Uppgift nummer',
 	'Status' => 'Status',
 	'Priority' => 'Prioritet',
     'Progress' => 'Framsteg',

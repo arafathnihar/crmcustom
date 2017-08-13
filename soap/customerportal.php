@@ -327,7 +327,7 @@ $server->register(
 	array('return'=>'tns:field_details_array'),
 	$NAMESPACE);
 
-//to get the Project Tasks for a given Project
+//to get the Activities for a given Project
 $server->register(
 	'get_project_components',
 	array('id'=>'xsd:string','module'=>'xsd:string','customerid'=>'xsd:string','sessionid'=>'xsd:string'),

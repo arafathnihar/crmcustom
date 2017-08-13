@@ -11,10 +11,10 @@ include_once dirname(__FILE__) . '/../Alert.php';
 class Mobile_WS_AlertModel_ProjectTasksOfMine extends Mobile_WS_AlertModel {
 	function __construct() {
 		parent::__construct();
-		$this->name = 'My Project Task';
+		$this->name = 'My Activity';
 		$this->moduleName = 'ProjectTask';
 		$this->refreshRate= 1 * (24* 60 * 60); // 1 day
-		$this->description='Project Task Assigned To Me';
+		$this->description='Activity Assigned To Me';
 	}
 
 	function query() {

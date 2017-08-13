@@ -132,7 +132,7 @@ $languageStrings = array(
 	'Products'                     => 'Produto'                     ,
 	'Project'                      => 'Projetos'                    ,
 	'ProjectMilestone'             => 'Project Milestones'          ,
-	'ProjectTask'                  => 'Project Tasks'               ,
+	'ProjectTask'                  => 'Activities'               ,
 	'ServiceContracts'             => 'Contratos Serviço'          ,
 	'Services'                     => 'Serviços'                   ,
 	'Vendors'                      => 'Fornecedores'                ,
@@ -609,7 +609,7 @@ $languageStrings = array(
 	'Purchase Order' => 'Ordens de compra',
 	'Payments' => 'Payments',
 	'List and Campaigns' => 'List and Campaigns',
-	'Project Tasks' => 'Project Tasks',
+	'Activities' => 'Activities',
 	'Project Milestones' => 'Project Milestones',
 
 	'Labels Editor' => 'Labels Editor',
