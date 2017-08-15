@@ -65,17 +65,31 @@
 									</button>
 								</li>
 							{else}
+                            {if not $USER_MODEL->isAdminUser() and $MODULE eq 'Project'}
 								<li>
-									<button id="{$MODULE}_listView_basicAction_{Vtiger_Util_Helper::replaceSpaceWithUnderScores($BASIC_ACTION->getLabel())}" type="button" class="btn addButton btn-default module-buttons" 
-											{if stripos($BASIC_ACTION->getUrl(), 'javascript:')===0}  
-												onclick='{$BASIC_ACTION->getUrl()|substr:strlen("javascript:")};'
-											{else} 
-												onclick='window.location.href = "{$BASIC_ACTION->getUrl()}&app={$SELECTED_MENU_CATEGORY}"'
-											{/if}>
+									{*<button id="{$MODULE}_listView_basicAction_{Vtiger_Util_Helper::replaceSpaceWithUnderScores($BASIC_ACTION->getLabel())}" type="button" class="btn addButton btn-default module-buttons"*}
+											{*{if stripos($BASIC_ACTION->getUrl(), 'javascript:')===0}*}
+												{*onclick='{$BASIC_ACTION->getUrl()|substr:strlen("javascript:")};'*}
+											{*{else}*}
+												{*onclick='window.location.href = "{$BASIC_ACTION->getUrl()}&app={$SELECTED_MENU_CATEGORY}"'*}
+											{*{/if}>*}
+										{*<div class="fa {$BASIC_ACTION->getIcon()}" aria-hidden="true"></div>&nbsp;&nbsp;*}
+										{*{vtranslate($BASIC_ACTION->getLabel(), $MODULE)}*}
+									{*</button>*}
+								</li>
+								{else}
+								<li>
+									<button id="{$MODULE}_listView_basicAction_{Vtiger_Util_Helper::replaceSpaceWithUnderScores($BASIC_ACTION->getLabel())}" type="button" class="btn addButton btn-default module-buttons"
+                                            {if stripos($BASIC_ACTION->getUrl(), 'javascript:')===0}
+										onclick='{$BASIC_ACTION->getUrl()|substr:strlen("javascript:")};'
+                                            {else}
+										onclick='window.location.href = "{$BASIC_ACTION->getUrl()}&app={$SELECTED_MENU_CATEGORY}"'
+                                            {/if}>
 										<div class="fa {$BASIC_ACTION->getIcon()}" aria-hidden="true"></div>&nbsp;&nbsp;
-										{vtranslate($BASIC_ACTION->getLabel(), $MODULE)}
+                                        {vtranslate($BASIC_ACTION->getLabel(), $MODULE)}
 									</button>
 								</li>
+							{/if}
 							{/if}
 						{/foreach}
 						{if $MODULE_SETTING_ACTIONS|@count gt 0}
