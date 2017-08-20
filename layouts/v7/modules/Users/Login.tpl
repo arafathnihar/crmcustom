@@ -11,7 +11,8 @@
 {strip}
 	<style>
 		body {
-			background: url(layouts/v7/resources/Images/login-background.jpg);
+			background:none;
+					/*url(layouts/v7/resources/Images/login-background.jpg);*/
 			background-position: center;
 			background-size: cover;
 			width: 100%;
@@ -262,49 +263,14 @@
 
 		<div class="col-lg-5" style="display: none;">
 			<div class="marketingDiv widgetHeight">
-				{if $JSON_DATA}
-					{assign var=COUNTER value=0}
-					{foreach key=BLOCK_NAME item=BLOCKS_DATA from=$JSON_DATA}
-						{if $BLOCKS_DATA}
-							<div>
-								{assign var=COUNTER value=$COUNTER+1}
-								<h4>{$BLOCKS_DATA[0].heading}</h4>
-								{foreach item=BLOCK_DATA from=$BLOCKS_DATA}
-									<div class="row">
-										{if $BLOCK_DATA.image}
-											<div class="col-lg-4" style="min-height: 100px;"><img src="{$BLOCK_DATA.image}" style="width: 100%;height: 100%;margin-top: 10px;"/></div>
-											<div class="col-lg-8">
-										{else}
-											<div class="col-lg-12">
-										{/if}
-											<div title="{$BLOCK_DATA.summary}">
-												<h3><b>{$BLOCK_DATA.displayTitle}</b></h3>
-												{$BLOCK_DATA.displaySummary}<br><br>
-											</div>
-											<a href="{$BLOCK_DATA.url}" target="_blank"><u>{$BLOCK_DATA.urlalt}</u></a>
-										{if $BLOCK_DATA.image}
-											</div>
-										{else}
-											</div>
-										{/if}
-									</div>
-								{/foreach}
-							</div>
-							{if $COUNTER neq $DATA_COUNT}
-								<hr>
-							{/if}
-						{/if}
-					{/foreach}
-				{else}
-					<div class="inActiveImgDiv">
-						<div>
-							<h4>Get more out of Vtiger with extensions from</h4>
-							<h4>Vtiger Marketplace</h4>
-						</div>
-						<a href="https://marketplace.vtiger.com/app/listings" target="_blank" style="margin-right: 25px;"><img src="layouts/v7/resources/Images/extensionstore.png" style="width: 85%; height: 100%; margin-top: 25px;"/></a>
-					</div>
-				{/if}
-				</div>
+                <div class="marketingDiv widgetHeight">
+                    <div>
+                        <h3>
+                            <b>Gender Monitoring and Evaluation Tool</b>
+                        </h3>
+                    </div>
+                </div>
+            </div>
 			</div>
 		</div>
 
