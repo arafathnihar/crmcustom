@@ -261,16 +261,20 @@
 			<div class="separatorDiv"></div>
 		</div>
 
-		<div class="col-lg-5" style="display: none;">
+		<div class="col-lg-5">
 			<div class="marketingDiv widgetHeight">
-                <div class="marketingDiv widgetHeight">
-                    <div>
-                        <h3>
-                            <b>Gender Monitoring and Evaluation Tool</b>
-                        </h3>
-                    </div>
-                </div>
-            </div>
+				<div class="row">
+					<h3>
+						<p align="center" style="font-size:200%">
+							<b>
+								Gender Monitoring
+								<br>and<br>
+								Evaluation Tool
+							</b>
+						</p>
+					</h3>
+				</div>
+			</div>
 			</div>
 		</div>
 
