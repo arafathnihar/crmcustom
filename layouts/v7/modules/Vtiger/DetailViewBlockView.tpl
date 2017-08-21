@@ -94,7 +94,9 @@
 											{if $MODULE_NAME eq 'Documents' && $FIELD_MODEL->get('label') eq "File Name" && $RECORD->get('filelocationtype') eq 'E'}
 												{vtranslate("LBL_FILE_URL",{$MODULE_NAME})}
 											{else}
-												{vtranslate({$FIELD_MODEL->get('label')},{$MODULE_NAME})}
+												{if vtranslate({$FIELD_MODEL->get('label')},{$MODULE_NAME}) ne 'Source' and vtranslate({$FIELD_MODEL->get('label')},{$MODULE_NAME}) ne 'Is Converted From Opportunity'}
+													{vtranslate({$FIELD_MODEL->get('label')},{$MODULE_NAME})}
+												{/if}
 											{/if}
 											{if ($FIELD_MODEL->get('uitype') eq '72') && ($FIELD_MODEL->getName() eq 'unit_price')}
 												({$BASE_CURRENCY_SYMBOL})
@@ -108,10 +110,11 @@
 										{else}
 											{assign var=FIELD_DISPLAY_VALUE value=Vtiger_Util_Helper::toSafeHTML($FIELD_MODEL->getDisplayValue($FIELD_MODEL->get('fieldvalue')))}
 										{/if}
-
+                                        {if vtranslate({$FIELD_MODEL->get('label')},{$MODULE_NAME}) ne 'Source' and vtranslate({$FIELD_MODEL->get('label')},{$MODULE_NAME}) ne 'Is Converted From Opportunity'}
 										<span class="value" data-field-type="{$FIELD_MODEL->getFieldDataType()}" {if $FIELD_MODEL->get('uitype') eq '19' or $FIELD_MODEL->get('uitype') eq '21'} style="white-space:normal;" {/if}>
 											{include file=vtemplate_path($FIELD_MODEL->getUITypeModel()->getDetailViewTemplateName(),$MODULE_NAME) FIELD_MODEL=$FIELD_MODEL USER_MODEL=$USER_MODEL MODULE=$MODULE_NAME RECORD=$RECORD}
 										</span>
+										{/if}
 										{if $IS_AJAX_ENABLED && $FIELD_MODEL->isEditable() eq 'true' && $FIELD_MODEL->isAjaxEditable() eq 'true'}
 											<span class="hide edit pull-left">
 												{if $fieldDataType eq 'multipicklist'}
